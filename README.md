@@ -16,6 +16,6 @@ Contiene un total de 3000 prendas aproximadas.
 
 ===========================================================================
 
-# VERSION NITRO Y FLASH
+# VERSION NITRO
 
 Créditos: xlRaiko
